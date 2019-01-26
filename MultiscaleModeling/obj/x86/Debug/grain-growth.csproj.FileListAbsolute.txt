@@ -1,0 +1,8 @@
+C:\Users\vj7wkp\Desktop\grain-growth-master\grain-growth-master\bin\Debug\grain-growth.exe
+C:\Users\vj7wkp\Desktop\grain-growth-master\grain-growth-master\bin\Debug\grain-growth.pdb
+C:\Users\vj7wkp\Desktop\grain-growth-master\grain-growth-master\obj\x86\Debug\grain-growth.csprojResolveAssemblyReference.cache
+C:\Users\vj7wkp\Desktop\grain-growth-master\grain-growth-master\obj\x86\Debug\grain_growth.MainForm.resources
+C:\Users\vj7wkp\Desktop\grain-growth-master\grain-growth-master\obj\x86\Debug\grain_growth.Properties.Resources.resources
+C:\Users\vj7wkp\Desktop\grain-growth-master\grain-growth-master\obj\x86\Debug\grain-growth.csproj.GenerateResource.Cache
+C:\Users\vj7wkp\Desktop\grain-growth-master\grain-growth-master\obj\x86\Debug\grain-growth.exe
+C:\Users\vj7wkp\Desktop\grain-growth-master\grain-growth-master\obj\x86\Debug\grain-growth.pdb
